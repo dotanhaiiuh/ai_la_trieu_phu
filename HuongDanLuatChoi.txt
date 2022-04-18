@@ -1,0 +1,36 @@
+Chao mung ban da den voi chuong trinh Ai la trieu phu!
+
+De bat dau tro choi, ban hay dang nhap MENU NGUOI CHOI va nhan phim so 1.
+
+Cac cau hoi se duoc dua ra cung voi 4 dap an (A, B, C va D), nhung chi co 1 dap an chinh xac.
+Neu tra loi dung, ban se duoc tiep tuc tra loi cau hoi tiep theo va so tien thuong cua ban cung se duoc tang len.
+Neu tra loi sai, ban se phai dung cuoc choi.
+Nhan phim R de dung cuoc choi va bao toan so tien ban dang co.
+		--------------------------------------------------
+THANG TIEN THUONG:
+Cau 1: 200.000 VND
+Cau 2: 400.000 VND
+Cau 3: 600.000 VND
+Cau 4: 1.000.000 VND
+Cau 5 (Moc quan trong thu 1): 2.000.000 VND
+
+Cau 6: 3.000.000 VND
+Cau 7: 6.000.000 VND
+Cau 8: 10.000.000 VND
+Cau 9: 14.000.000 VND
+Cau 10 (Moc quan trong thu 2): 22.000.000 VND
+
+Cau 11: 30.000.000 VND
+Cau 12: 40.000.000 VND
+Cau 13: 60.000.000 VND
+Cau 14: 85.000.000 VND
+Cau 15 (Moc "TRIEU PHU"): 150.000.000 VND
+		--------------------------------------------------
+Trong khi dang choi, ban se co duoc 4 quyen tro giup bang cach nhan phim H:
+1.50:50: May tinh se loai bo 2 phuong an sai.
+2.Goi dien thoai cho nguoi than: Dua ra mot dap an bat ki.
+3.Xin y kien khan gia truong quay: Dua ra mot dap an bat ki.
+4.Hoi to tu van o truong quay: Dua ra dap an bat ky.
+*Luu y: Moi quyen tro giup chi duoc su dung 1 lan duy nhat, ban co the su dung nhieu quyen tro giup trong 1 cau hoi.
+
+Nao cung chung ta cung di tim "Ai la trieu phu". 
